@@ -45,7 +45,7 @@
             <img src="./img/kathmandu news.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>KTM city:Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -55,10 +55,10 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/agriculture.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>Agriculture:Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -68,10 +68,10 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/gold-price-rates-in-nepal.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>Gold Price Rate:Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -81,10 +81,10 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/political card.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>Political :Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -94,10 +94,10 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/Nepal-Economy.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>Nepal_Economy:Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -107,10 +107,10 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/strike.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>Strike In Nepal:Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -120,10 +120,10 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/banner2.jpg" />
         </div>
         <div class="title">
-            <h1>Sport:Hot News</h1>
+            <h1>Latest Nepali Movie:Hot News</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, quisquam. Voluptatem, esse, corporis
                 assumenda asperiores incidunt veniam, doloremque consectetur temporibus praesentium dolor illum nemo
                 molestiae facere pariatur cupiditate laboriosam veritatis!</p>
@@ -133,7 +133,7 @@
     <!--cards -->
     <div id="" class="card">
         <div class="image">
-            <img src="./img/kathmandu news.jpg" />
+            <img src="./img/sportcard1.jpg" />
         </div>
         <div class="title">
             <h1>Sport:Hot News</h1>
