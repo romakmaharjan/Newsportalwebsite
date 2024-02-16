@@ -7,10 +7,14 @@
     <title>News Website</title>
     <link rel="stylesheet" href="./css/bootstrap.css">
     <link rel="stylesheet" href="./js/bootstrap.bundle.min.js">
-    <link rel="stylesheet" href="./js/bootstrap.bundle.js">
     <style>
     li a {
         color: black !important;
+    }
+
+    li a:hover {
+        background-color: orange;
+
     }
     </style>
 </head>
@@ -41,7 +45,7 @@
                     <li class="nav-item">
                         <a class="nav-link active" href="#">Contact us</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             OtherNews
@@ -54,8 +58,13 @@
                             </li>
                             <li><a class="dropdown-item" href="#">Something else here</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                 </ul>
+                <!-- Search Form -->
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
             </div>
         </div>
     </nav>
