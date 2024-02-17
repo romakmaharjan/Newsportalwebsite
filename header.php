@@ -34,16 +34,16 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        <a class="nav-link active" aria-current="page" href="./index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">News</a>
+                        <a class="nav-link active" href="./news.php">News</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="#">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Contact us</a>
+                        <a class="nav-link active" href="./footer.php">Contact us</a>
                     </li>
                     <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"

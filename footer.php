@@ -1,3 +1,7 @@
+<?php
+require_once "header.php";
+?>
+
 <head>
     <title>Footer PHP</title>
     <link rel="stylesheet" href="./css/bootstrap.css">
